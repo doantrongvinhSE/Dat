@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "QuanLyQuanCafe": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\SQL wed QL ban ca phe\\QuanLyQuanCafe\\QuanLyQuanCafe.sln",
+      "workingDirectory": "D:\\SQL wed QL ban ca phe\\QuanLyQuanCafe\\QuanLyQuanCafe"
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|c:\\users\\vinhly\\documents\\lamchokhach\\quanlycafe\\quanlyquancafe\\quanlyquancafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\quanlyquancafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\quanlyquancafe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|c:\\users\\vinhly\\documents\\lamchokhach\\quanlycafe\\quanlyquancafe\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|c:\\users\\vinhly\\documents\\lamchokhach\\quanlycafe\\quanlyquancafe\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|c:\\users\\vinhly\\documents\\lamchokhach\\quanlycafe\\quanlyquancafe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\quanlyquancafe\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\faccountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\quanlyquancafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|c:\\users\\vinhly\\documents\\lamchokhach\\quanlycafe\\quanlyquancafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758F0C62-0795-4172-9AFA-82F8D1A59525}|QuanLyQuanCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlyquancafe\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\Report\\BillReport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyQuanCafe\\Report\\BillReport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyQuanCafe.csproj",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
+              "RelativeToolTip": "QuanLyQuanCafe\\QuanLyQuanCafe.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T09:12:39.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillReport.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\Report\\BillReport.rdlc",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\Report\\BillReport.rdlc",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\Report\\BillReport.rdlc [Design]",
+              "RelativeToolTip": "QuanLyQuanCafe\\Report\\BillReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-04-29T08:50:45.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyQuanCafe\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAhwGcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:43:20.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fTableManager.cs",
+              "RelativeToolTip": "QuanLyQuanCafe\\fTableManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAhwFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:40:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCafe\\fAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:20:09.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\fLogin.cs",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCafe\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:49:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fAccountProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fAccountProfile.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\fAccountProfile.cs",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fAccountProfile.cs [Design]",
+              "RelativeToolTip": "QuanLyQuanCafe\\fAccountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:49:08.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\DAO\\BillDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\DAO\\BillDAO.cs",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\DAO\\BillDAO.cs",
+              "RelativeToolTip": "QuanLyQuanCafe\\DAO\\BillDAO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwDgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:28:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyQuanCafe\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\VinhLy\\Documents\\lamchokhach\\QuanLyCafe\\QuanLyQuanCafe\\fAdmin.cs",
+              "RelativeToolTip": "QuanLyQuanCafe\\fAdmin.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAqwEUBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:32:31.637Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 77,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOwUAAAAAAAAAAAAAOwUAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-22T08:28:50.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
