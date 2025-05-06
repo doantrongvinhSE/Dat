@@ -54,17 +54,9 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "DevExpress.Reporting.Core": {
-              "target": "Package",
-              "version": "[24.2.6, )"
-            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.1, )"
-            },
-            "ReportViewerCore.NETCore": {
-              "target": "Package",
-              "version": "[15.1.26, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",

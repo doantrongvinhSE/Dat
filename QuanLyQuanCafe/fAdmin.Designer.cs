@@ -607,6 +607,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            AutoSizeMode = AutoSizeMode.GrowAndShrink;
             BackColor = Color.FromArgb(255, 192, 128);
             ClientSize = new Size(800, 450);
             Controls.Add(tcAdmin);
